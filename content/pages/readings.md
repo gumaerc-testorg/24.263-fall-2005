@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 39cee89a-bf54-8ae5-bc87-42b9ee32d245
 ---
 
-The following table lists the assigned readings by lecture number. In addition, a partial list of [research readings](#Research_Readings) is provided that can be used to aid in the research process for the [essays]({{< baseurl >}}/pages/assignments).
+The following table lists the assigned readings by lecture number. In addition, a partial list of [research readings](#Research_Readings) is provided that can be used to aid in the research process for the {{< resource_link 73e8d811-0783-f9c2-08f8-f85d67e9d43e "essays" >}}.
 
 Required Readings
 -----------------
