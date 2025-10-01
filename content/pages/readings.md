@@ -236,7 +236,7 @@ Fiumara, Gemma Corradi. _The Mind's Affective Life: A Psychoanalytic and Philoso
 
 Phillips, William, ed. _Art and Psychoanalysis: Studies in the Application of Psychoanalytic Theory to the Creative Process._ New York, NY: Criterion Books, 1957.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/imagination-and-meaningful-brain) Modell, Arnold H. [_Imagination and the Meaningful Brain_](https://mitpress.mit.edu/books/imagination-and-meaningful-brain). Cambridge, MA: MIT Press, 2003. ISBN: 026213425X.
+{{% resource_link "875f3cb3-4b60-4df1-b95c-239a7295737f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Modell, Arnold H. {{% resource_link "875f3cb3-4b60-4df1-b95c-239a7295737f" "_Imagination and the Meaningful Brain_" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 026213425X.
 
 Bergson, Henri. _Creative Evolution_. London, UK: Electric Book Co., 2001.
 
@@ -248,9 +248,9 @@ Damasio, Antonio. _Looking for Spinoza: Joy, Sorrow, and the Feeling Brain_. Orl
 
 Minsky, Marvin. _The Emotion Machine._ New York, NY: Simon and Schuster, 2006. ISBN: 0743276639.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/affective-computing) Picard, R. W. [_Affective Computing_](https://mitpress.mit.edu/books/affective-computing). Cambridge, MA: MIT Press, 1997. ISBN: 0262161702.
+{{% resource_link "a34a7bea-1a33-44cd-ba3b-8a11bcbfcbc5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Picard, R. W. {{% resource_link "a34a7bea-1a33-44cd-ba3b-8a11bcbfcbc5" "_Affective Computing_" %}}. Cambridge, MA: MIT Press, 1997. ISBN: 0262161702.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/dimensions-creativity) Boden, Margaret A., ed. [_Dimensions of Creativity_](https://mitpress.mit.edu/books/dimensions-creativity). Cambridge, MA: MIT Press, 1994. ISBN: 0262023687.
+{{% resource_link "a68df4f4-3913-4de8-846f-8897cd9048a1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Boden, Margaret A., ed. {{% resource_link "a68df4f4-3913-4de8-846f-8897cd9048a1" "_Dimensions of Creativity_" %}}. Cambridge, MA: MIT Press, 1994. ISBN: 0262023687.
 
 Brann, Eva T. H. _The World of the Imagination_. Savage, MD: Rowman and Littlefield, 1991. ISBN: 0847676501.
 
@@ -268,6 +268,6 @@ Plantinga, Carl, and Greg H. Smith, eds. _Passionate Views: Film, Cognition, and
 
 Wechsler, Judith, ed. _On Aesthetics in Science_. Boston, MA: Birkhäuser, 1988. ISBN: 0817633790.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/contrary) Churchland, Paul M., and Patricia S. Churchland. [_On the Contrary: Critical Essays 1987-1997_](https://mitpress.mit.edu/books/contrary). Cambridge, MA: MIT Press, 1998. ISBN: 0262032546.
+{{% resource_link "f74b25ab-d549-477d-a1eb-39c895c25120" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Churchland, Paul M., and Patricia S. Churchland. {{% resource_link "f74b25ab-d549-477d-a1eb-39c895c25120" "_On the Contrary: Critical Essays 1987-1997_" %}}. Cambridge, MA: MIT Press, 1998. ISBN: 0262032546.
 
 Lightman, Alan. _A Sense of the Mysterious._ New York, NY: Pantheon Books, 2005. ISBN: 0375423206.
